@@ -2,7 +2,7 @@
 
 <br />
 
-I have experience working with React, Javascript, HTML, CSS, NodeJS, Express & working with RESTful API´s.
+Experience working with React, Javascript, HTML, CSS, NodeJS, Express & working with RESTful API´s.
 
 <br />
 
