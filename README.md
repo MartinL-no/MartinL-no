@@ -14,6 +14,8 @@ I have experience working with React, Javascript, HTML, CSS, NodeJS, Express & w
 
 Looking for opportunities in the startup sector, if you would like to get in touch - 
 
+<br />
+
 📞 : +47 967 30 782
 
 📨 : martin.lorimer AT icloud.com
