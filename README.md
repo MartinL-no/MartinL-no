@@ -1,4 +1,4 @@
-### Hi! i´m Martin, a Front-End Developer based in Oslo, Norway
+## Hey i'm Martin, a Front-End Developer based in Oslo, Norway
 
 <br />
 
@@ -16,9 +16,8 @@ Looking for opportunities in the startup sector, if you would like to get in tou
 
 <br />
 
-📞 : +47 967 30 782
-
-📨 : martin.lorimer AT icloud.com
+m : +47 967 30 782 <br/>
+e : martin.lorimer AT icloud.com
 
 <!---
 martinlrmr/martinlrmr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
