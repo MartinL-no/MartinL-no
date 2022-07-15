@@ -12,12 +12,7 @@ Experience working with React, Javascript, HTML, CSS, NodeJS, Express & working 
 
 <br />
 
-Looking for opportunities in the startup sector, if you would like to get in touch - 
-
-<br />
-
-m : +47 967 30 782 <br/>
-e : martin.lorimer AT icloud.com
+Looking for opportunities in the startup sector, if you'd like to see my projects and get in touch -
 
 <!---
 martinlrmr/martinlrmr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
