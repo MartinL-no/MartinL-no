@@ -12,8 +12,6 @@ Experience working with React, Javascript, HTML, CSS, NodeJS, Express & working 
 
 <br />
 
-Looking for opportunities in the startup sector, if you'd like to see my projects and get in touch -
-
 <!---
 martinlrmr/martinlrmr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
