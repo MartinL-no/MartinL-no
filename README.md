@@ -1,4 +1,4 @@
-## Hey i'm Martin, a Front-End Developer based in Oslo, Norway
+## Hey i'm Martin, a Web Developer from Ireland
 
 <br />
 
@@ -6,9 +6,7 @@ Experience working with React, Javascript, HTML, CSS, NodeJS, Express & RESTful 
 
 <br />
 
-**Currently Learning** - Backend (Js) development (React, Redux, Node.js, MongoDB, GraphQL and TypeScript)
-
-**Interested In** - C# & Modern Web Technologies (NextJS, Remix, Styled Components)
+**Currently Learning** - Backend (Js) development (React, Redux, Node.js, MongoDB, GraphQL and TypeScript), C# / .NET
 
 <br />
 
