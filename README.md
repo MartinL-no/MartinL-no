@@ -3,7 +3,7 @@
 ## Learning:
 🌱 I’m currently learning more about **C#/.NET, SQL, React.js, TypeScript, GraphQL and Test Driven Development**
 ## Skills:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Router](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![PostGresQl](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Router](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![PostGresQl](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
 
 ## Repositories:
   
@@ -99,46 +99,197 @@
 
 ## Certificates / Education:
 
+<details>
+  <summary>
+    <a href="https://github.com/MartinL-no/certificates/blob/main/img/certificate-psql.png?raw=true">Full Stack Open (Extension - Relational Databases</a>
+  </summary>
+  <blockquote>
+
+Course on the use of relational databases (PostGresQL) in JavaScript applications.
+    
+Topics that the course covered include:
+
+<ul>
+  <li>Setup of PostGresQL database in Fly.io</li>
+  <li>Setup and configuration of the database/models in Node.js using Sequelize</li>
+  <li>Join tables/ queries</li>
+  <li>Migrations</li>
+  <li>Many to many table relationships</li>
+</ul>
+
+  </blockquote>
+</details>
 
 <details>
-  <summary><a href="https://github.com/MartinL-no/certificates/blob/main/img/certificate-psql.png?raw=true>Full Stack Open (Extension - Docker)</a></summary>
+  <summary>
+    <a href="https://github.com/MartinL-no/certificates/blob/main/img/certificate-cicd.png?raw=true">Full Stack Open (Extension - CI/CD), University of Helsinki</a>
+  </summary>
   <blockquote>
-    <ul>
-      <li>
-      Course focused on modern JavaScript-based web development and building single page applications with ReactJS that use GraphQL/ REST APIs built with Node.js.
 
-Technologies covered includes React, Redux, Node.js, MongoDB, Apollo, GraphQL and TypeScript.
+Course on Continuous Integration / Continuous Delivery systems. As part of the course I creating a pipeline for testing and deployment of a Full-Stack JavaScript [application](https://github.com/MartinL-no/full-stack-open-part11-20) using GitHub Actions.
 
-### <in>Modules completed</in>
-* 0 - Fundamentals of Web apps
-* 1 - Introduction to React
-* 2 - Communicating with server
-* 3 - Programming a server with NodeJS and Express
-* 4 - Testing Express servers, user administration
-* 5 - Testing React Apps
-* 6 - State management with Redux
-* 7 - React router, custom hooks, styling app with CSS and webpack
-* 8 - GraphQL
-* 9 - TypeScript
-* 10 - React Native
-* 11 - CI/CD
-* 13 - Relational Databases
+Topics that the course covered include:
+    
+<ul>
+  <li>Introduction to CI/CD options available in the industry</li>
+  <li>Creating GitHub Action workflows using YAML files</li>
+  <li>Setup of lint, test and build steps</li>
+  <li>Workflow for deploying an application to Heroku</li>
+  <li>Configuring branch protections and pull request workflows</li>
+  <li>Versioning and notifications</li>
+</ul>
 
-<br/>
-      
-      
-      </li>
-    </ul>
   </blockquote>
 </details>
 
 
-- **Currently** [Full Stack Open (Extension - Docker), University of Helsinki](https://github.com/MartinL-no/certificates/blob/main/img/certificate-psql.png?raw=true)
-- **2022** [Full Stack Open (Extension - Relational Databases), University of Helsinki](https://github.com/MartinL-no/certificates/blob/main/img/certificate-psql.png?raw=true)
-- **2022** [Full Stack Open (Extension - CI/CD), University of Helsinki](https://github.com/MartinL-no/certificates/blob/main/img/certificate-cicd.png?raw=true)
-- **2022** [Full Stack Open (Extension - React Native), University of Helsinki](https://github.com/MartinL-no/certificates/blob/main/img/certificate-reactnative.png?raw=true)
-- **2022** [Full Stack Open (Extension - TypeScript), University of Helsinki](https://github.com/MartinL-no/certificates/blob/main/img/certificate-typescript.png?raw=true)
-- **2022** [Full Stack Open (Extension - GraphQL), University of Helsinki](https://github.com/MartinL-no/certificates/blob/main/img/certificate-graphql.png?raw=true)
-- **2022** [Full Stack Open, University of Helsinki](https://github.com/MartinL-no/certificates/blob/main/img/certificate-fullstack.png?raw=true)
-- **2022** [React Job Simulator, Profy.Dev](https://profy.dev/#membership)
-- **2022** [The Frontend Developer Career Path, Scrimba](https://github.com/MartinL-no/certificates/blob/main/img/ScrimbaCert.png?raw=true)
+<details>
+  <summary>
+    <a href="https://github.com/MartinL-no/certificates/blob/main/img/certificate-reactnative.png?raw=true">Full Stack Open (Extension - React Native), University of Helsinki</a>
+  </summary>
+  <blockquote>
+
+This course looked at the development of mobile applications using React Native. As part of it I created an [application](https://github.com/MartinL-no/full-stack-open-part10) for rating GitHub repositories
+    
+Topics that the course covered include:
+    
+<ul>
+  <li>Setup of a development enviroment using Expo</li>
+  <li>Eslint configuration</li>
+  <li>Debugging using React Native Debugger</li>
+  <li>React Native components</li>
+  <li>Styling and theming React Native applications</li>
+  <li>Routing with React Native Router</li>
+  <li>Formik form management</li>
+  <li>Communicating with backend using GraphQL</li>
+  <li>Testing React Native applications</li>
+  <li>Pagination/ infinite scrolling</li>
+</ul>
+
+  </blockquote>
+</details>
+
+<details>
+  <summary>
+    <a href="https://github.com/MartinL-no/certificates/blob/main/img/certificate-typescript.png?raw=true">Full Stack Open (Extension - TypeScript), University of Helsinki</a>
+  </summary>
+  <blockquote>
+
+Extension of the Full Stack Open course focusing on Typescript, the course was designed by professional developers at [Terveystalo](https://www.terveystalo.com/fi/yhtio/toihin-terveystaloon/) to give an understanding of how to develop and configure projects using TypeScript.
+
+Topics that the course covered include:
+
+<ul>
+  <li>The TypeScript type system</li>
+  <li>Configuring and adding Types to an Express backend</li>
+  <li>Typing a React frontend</li>
+  <li>tsconfig setup</li>
+</ul>
+    
+  </summary>
+  <blockquote>
+
+  </blockquote>
+</details>
+
+<details>
+  <summary>
+    <a href="https://github.com/MartinL-no/certificates/blob/main/img/certificate-graphql.png?raw=true">Full Stack Open (Extension - GraphQL), University of Helsinki</a>
+  </summary>
+  <blockquote>
+
+Course covering the implementation of the GraphQL query language in Full-Stack JavaScript applications.
+    
+Topics that the course covered include:
+    
+<ul>
+  <li>Setup of an GraphQL server in Node.js using Apollo Server</li>
+  <li>Using GraphQL in React</li>
+  <li>Database communication (Mongoose/MongoDB) & setup of middleware user authentication/li>
+  <li>testing schemas/mutations using Apollo client</li>
+  <li>Cache manipulation, fragments and subscriptions</li>
+</ul>
+
+  </blockquote>
+</details>
+
+<details>
+  <summary>
+    <a href="https://github.com/MartinL-no/certificates/blob/main/img/certificate-fullstack.png?raw=true">Full Stack Open, University of Helsinki</a>
+  </summary>
+  <blockquote>
+
+Course focused on modern JavaScript-based web development and building single page applications with ReactJS that use GraphQL/ REST APIs built with Node.js.
+
+Technologies that the course covered included Node.js, Express, MongoDB, React, Redux, Jest & JSONWebtoken authentication. There is a strong focus on current professional working practice, so included guidance on additional aspects necessary to working as a professional developer such as setting up a development enviroment, testing, deployment and linting configurations.
+        
+Modules:
+
+<ul>
+  <li>Fundamentals of Web apps</li>
+  <li>Introduction to React</li>
+  <li>Communicating with server</li>
+  <li>Programming a server with NodeJS and Express</li>
+  <li>Testing Express servers, user administration</li>
+  <li>Testing React Apps</li>
+  <li>State management with Redux</li>
+  <li>React router, custom hooks, styling app with CSS and webpack</li>
+<ul>
+
+  </blockquote>
+</details>
+
+<details>
+  <summary>
+    <a href="https://profy.dev/#membership">React Job Simulator, Profy.Dev</a>
+  </summary>
+  <blockquote>
+
+The React Job Simulator is a course designed to imitate the experience you get on your first developer job.
+
+For this course I built a [Reddit Timer](https://github.com/MartinL-no/react-projects/tree/main/reddit-timer) according to professional working practices. The project was divided in tasks assigned using Kanban project management and tested through a Github Actions CI/CD pipeline. 
+    
+Topics that the course covered include:
+
+<ul>
+  <li>Developing a React frontend application according to a professional workflow</li>
+  <li>Working with tooling and libraries that are common in professional projects</li>
+  <li>Styling in React with Styled-Components</li>
+  <li>Using structured work processes based on designs, tasks, and a project management tool</li>
+  <li>Creating automated tests as part of the software development process</li>
+  <li>Improving code via example code reviews and comparing with professional implementations/li>
+<ul>
+
+  </blockquote>
+</details>
+
+<details>
+  <summary>
+    <a href="https://github.com/MartinL-no/certificates/blob/main/img/ScrimbaCert.png?raw=true">The Frontend Developer Career Path, Scrimba</a>
+  </summary>
+  <blockquote>
+
+The Career Path aims to teach you everything you need to know to be hired as a Frontend developer. It covers HTML, CSS, JavaScript, React, UI Design, career advice and contains over 70 hours of tutorials, hundreds of coding challenges, and dozens of real-world projects.
+
+Modules:
+
+<ul>
+  <li>Welcome to the career path</li>
+  <li>Web dev basics</li>
+  <li>Making websites interactive</li>
+  <li>Essential CSS concepts</li>
+  <li>Essential JavaScript concepts</li>
+  <li>Responsive design</li>
+  <li>Next-level JavaScript</li>
+  <li>Code reviews</li>
+  <li>Working with APIs</li>
+  <li>Building apps with Flexbox and Grid</li>
+  <li>Learn UI design</li>
+  <li>Learn Git</li>
+  <li>React basics</li>
+  <li>Advanced React</li>
+  <li>Getting hired</li>
+<ul>
+
+  </blockquote>
+</details>
