@@ -67,8 +67,7 @@
   <summary>CI/CD</summary>
   <blockquote>
     <ul>
-      <li><a href="https://github.com/MartinL-no/full-stack-open-pokedex">Pokedex - built GitHub actions deployment pipeline for preexisting app</a></li>
-      <li><a href="https://github.com/MartinL-no/full-stack-open-part11-20">Bloglist - example GitHub actions deployment pipeline for app I created myself</a></li>
+      <li><a href="https://github.com/MartinL-no/full-stack-open-part11-20">Bloglist - GitHub Actions deployment pipeline</a></li>
     </ul>
   </blockquote>
 </details> 
