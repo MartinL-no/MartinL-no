@@ -86,7 +86,7 @@
   <summary>Vanilla JavaScript</summary>
   <blockquote>
     <ul>
-      <li><a href="https://github.com/MartinL-no/GET">Hangman - Exercise to create reactive app without library/framework using MVC design pattern</a></li>
+      <li><a href="https://github.com/MartinL-no/GET">Hangman - MVC design pattern app</a></li>
       <li><a href="https://github.com/MartinL-no/javascript-projects/tree/main/movie-watchlist">Movie Watch List</a></li>
       <li><a href="https://github.com/MartinL-no/javascript-projects/tree/main/sample-portfolio-site">Sample Portfolio Website</a></li>
       <li><a href="https://github.com/MartinL-no/javascript-projects/tree/main/color-scheme-generator">Colour Scheme Generator</a></li>
