@@ -58,7 +58,7 @@
   <summary>Testing</summary>
   <blockquote>
     <ul>
-      <li><a href="https://github.com/MartinL-no/full-stack-open/tree/main/part5">Bloglist - Fullstack React/Node.js app with automated testing using Jest, Cypress & React-Testing-Library</a></li>
+      <li><a href="https://github.com/MartinL-no/full-stack-open/tree/main/part5">Bloglist - Fullstack React/Node.js app with automated testing (Jest, Cypress & React-Testing-Library)</a></li>
     </ul>
   </blockquote>
 </details>
