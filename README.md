@@ -76,7 +76,7 @@
   <summary>React Native</summary>
   <blockquote>
     <ul>
-      <li><a href="https://github.com/MartinL-no/full-stack-open-part10">Rate Repository - React Native frontend built using Expo, GraphQL & Formik</a></li>
+      <li><a href="https://github.com/MartinL-no/full-stack-open-part10/tree/main/rate-repository-app">Rate Repository - React Native frontend built using Expo, GraphQL & Formik</a></li>
     </ul>
   </blockquote>
 </details>
