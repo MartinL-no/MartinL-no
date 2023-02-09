@@ -292,3 +292,16 @@ Modules:
 
   </blockquote>
 </details>
+    
+##  Short Courses:
+    
+<details>
+  <summary>
+    <a href="https://frontendmasters.com/courses/javascript-hard-parts-v2/">JavaScript: The Hard Parts, v2</a>
+  </summary>
+  <blockquote>
+
+Goes under the hood of some of the most important aspects of JavaScript. Combining mental models of JavaScript's inner workings and hands-on programming challenges, course gives a solid understanding of callbacks and higher-order functions, closure, asynchronous JavaScript, and object-oriented JavaScript
+    
+  </blockquote>
+</details>
