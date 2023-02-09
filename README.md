@@ -100,7 +100,7 @@
 
 <details>
   <summary>
-    <a href="https://github.com/MartinL-no/certificates/blob/main/img/certificate-psql.png?raw=true">Full Stack Open (Extension - Relational Databases</a>
+    <a href="https://github.com/MartinL-no/certificates/blob/main/img/certificate-psql.png?raw=true">Full Stack Open (Extension - Relational Databases), University of Helsinki</a>
   </summary>
   <blockquote>
 
@@ -240,30 +240,6 @@ Modules:
 
 <details>
   <summary>
-    <a href="https://profy.dev/#membership">React Job Simulator, Profy.Dev</a>
-  </summary>
-  <blockquote>
-
-The React Job Simulator is a course designed to imitate the experience you get on your first developer job.
-
-For this course I built a [Reddit Timer](https://github.com/MartinL-no/react-projects/tree/main/reddit-timer) according to professional working practices. The project was divided in tasks assigned using Kanban project management and tested through a Github Actions CI/CD pipeline. 
-    
-Topics that the course covered include:
-
-<ul>
-  <li>Developing a React frontend application according to a professional workflow</li>
-  <li>Working with tooling and libraries that are common in professional projects</li>
-  <li>Styling in React with Styled-Components</li>
-  <li>Using structured work processes based on designs, tasks, and a project management tool</li>
-  <li>Creating automated tests as part of the software development process</li>
-  <li>Improving code via example code reviews and comparing with professional implementations/li>
-<ul>
-
-  </blockquote>
-</details>
-
-<details>
-  <summary>
     <a href="https://github.com/MartinL-no/certificates/blob/main/img/ScrimbaCert.png?raw=true">The Frontend Developer Career Path, Scrimba</a>
   </summary>
   <blockquote>
@@ -297,11 +273,35 @@ Modules:
     
 <details>
   <summary>
-    <a href="https://frontendmasters.com/courses/javascript-hard-parts-v2/">JavaScript: The Hard Parts, v2</a>
+    <a href="https://frontendmasters.com/courses/javascript-hard-parts-v2/">JavaScript: The Hard Parts, v2, Frontend Masters</a>
   </summary>
   <blockquote>
 
 Goes under the hood of some of the most important aspects of JavaScript. Combining mental models of JavaScript's inner workings and hands-on programming challenges, course gives a solid understanding of callbacks and higher-order functions, closure, asynchronous JavaScript, and object-oriented JavaScript
     
+  </blockquote>
+</details>
+    
+<details>
+  <summary>
+    <a href="https://profy.dev/#membership">React Job Simulator, Profy.Dev</a>
+  </summary>
+  <blockquote>
+
+Course designed to imitate the experience you get on your first developer job.
+
+For this course I built a [Reddit Timer](https://github.com/MartinL-no/react-projects/tree/main/reddit-timer) according to professional working practices. The project was divided in tasks assigned using Kanban project management and tested through a Github Actions CI/CD pipeline. 
+    
+Topics that the course covered include:
+
+<ul>
+  <li>Developing a React frontend application according to a professional workflow</li>
+  <li>Working with tooling and libraries that are common in professional projects</li>
+  <li>Styling in React with Styled-Components</li>
+  <li>Using structured work processes based on designs, tasks, and a project management tool</li>
+  <li>Creating automated tests as part of the software development process</li>
+  <li>Improving code via example code reviews and comparing with professional implementations/li>
+<ul>
+
   </blockquote>
 </details>
