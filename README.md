@@ -270,7 +270,18 @@ Modules:
 </details>
     
 ##  Short Courses:
+
+<details>
+  <summary>
+    <a href="https://frontendmasters.com/courses/servers-node-js/">The Hard Parts of Servers & Node.js, Frontend Masters</a>
+  </summary>
+  <blockquote>
+
+Course that goes under the hood of Node.js in two contrasting ways - by understanding how to develop servers from intuitive first-principles (HTTP, TCP/IP, Ports, Loopback, SSH) and by understanding the JavaScript features that make up Node (the event loop, streams, buffers, asynchronicity, prototypes)
     
+  </blockquote>
+</details>
+
 <details>
   <summary>
     <a href="https://frontendmasters.com/courses/javascript-hard-parts-v2/">JavaScript: The Hard Parts, v2, Frontend Masters</a>
