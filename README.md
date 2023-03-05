@@ -316,3 +316,14 @@ Topics that the course covered include:
 
   </blockquote>
 </details>
+    
+<details>
+  <summary>
+    <a href="https://www.executeprogram.com/courses/typescript-basics">Typescript Basics, Execute Program</a>
+  </summary>
+  <blockquote>
+
+Static types and the Typescript language from the ground up.
+
+  </blockquote>
+</details>
