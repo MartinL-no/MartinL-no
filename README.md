@@ -100,7 +100,7 @@
 
 <details>
   <summary>
-    <a href="https://getacademy.no/utdanning/start-it">START IT (C#/.NET, GET Academy</a>
+    <a href="https://getacademy.no/utdanning/start-it">Start IT (C#/.NET), GET Academy</a>
   </summary>
   <blockquote>
 
