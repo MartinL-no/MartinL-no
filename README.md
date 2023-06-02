@@ -112,7 +112,7 @@ Topics that the course covered include:
   <li>Object Orientated theory and design</li>
   <li>C# language features</li>
   <li>.NET API's (minimal API, MVC, Entity Framework Core, Swagger, Dependency Injection)</li>
-  <li>Testing using NUnit and manual mocking/Moq framework</li>
+  <li>Unit testing (NUnit(NUnit) and mocking (manual/Moq framework)</li>
   <li>Associated tooling such as Microsoft Server Management Studio, Dapper, Visual Studio, Resharper, NuGet</li>
 </ul>
 
