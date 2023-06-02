@@ -100,6 +100,27 @@
 
 <details>
   <summary>
+    <a href="https://getacademy.no/utdanning/start-it">START IT (C#/.NET, GET Academy</a>
+  </summary>
+  <blockquote>
+
+Course on Software Development course covering front and backend. I took the final module covering backend in the C# Language
+    
+Topics that the course covered include:
+
+<ul>
+  <li>Object Orientated theory and design</li>
+  <li>C# language features</li>
+  <li>.NET API's (minimal API, MVC, Entity Framework Core, Swagger, Dependency Injection)</li>
+  <li>Testing using NUnit and manual mocking/Moq framework</li>
+  <li>Associated tooling such as Microsoft Server Management Studio, Dapper, Visual Studio, Resharper, NuGet</li>
+</ul>
+
+  </blockquote>
+</details>
+
+<details>
+  <summary>
     <a href="https://github.com/MartinL-no/certificates/blob/main/img/certificate-psql.png?raw=true">Full Stack Open (Extension - Relational Databases), University of Helsinki</a>
   </summary>
   <blockquote>
