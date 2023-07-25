@@ -121,70 +121,26 @@ Topics that the course covered include:
 
 <details>
   <summary>
-    <a href="https://github.com/MartinL-no/certificates/blob/main/img/certificate-psql.png?raw=true">Full Stack Open (Extension - Relational Databases), University of Helsinki</a>
+    <a href="https://github.com/MartinL-no/certificates/blob/main/img/certificate-fullstack.png?raw=true">Full Stack Open, University of Helsinki</a>
   </summary>
   <blockquote>
 
-Course on the use of relational databases (PostGresQL) in JavaScript applications.
-    
-Topics that the course covered include:
+University Masters Level Course (15 ECTS) focused on modern JavaScript-based web development and building single page applications with ReactJS that use GraphQL/ REST APIs built with Node.js.
+
+Technologies that the course covered included Node.js, Express, MongoDB, React, Redux, Jest & JSONWebtoken authentication. There is a strong focus on current professional working practice, so included guidance on additional aspects necessary to working as a professional developer such as setting up a development enviroment, testing, deployment and linting configurations.
+        
+Modules:
 
 <ul>
-  <li>Setup of PostGresQL database in Fly.io</li>
-  <li>Setup and configuration of the database/models in Node.js using Sequelize</li>
-  <li>Join tables/ queries</li>
-  <li>Migrations</li>
-  <li>Many to many table relationships</li>
-</ul>
-
-  </blockquote>
-</details>
-
-<details>
-  <summary>
-    <a href="https://github.com/MartinL-no/certificates/blob/main/img/certificate-cicd.png?raw=true">Full Stack Open (Extension - CI/CD), University of Helsinki</a>
-  </summary>
-  <blockquote>
-
-Course on Continuous Integration / Continuous Delivery systems. As part of the course I creating a pipeline for testing and deployment of a Full-Stack JavaScript [application](https://github.com/MartinL-no/full-stack-open-part11-20) using GitHub Actions.
-
-Topics that the course covered include:
-    
+  <li>Fundamentals of Web apps</li>
+  <li>Introduction to React</li>
+  <li>Communicating with server</li>
+  <li>Programming a server with NodeJS and Express</li>
+  <li>Testing Express servers, user administration</li>
+  <li>Testing React Apps</li>
+  <li>State management with Redux</li>
+  <li>React router, custom hooks, styling app with CSS and webpack</li>
 <ul>
-  <li>Introduction to CI/CD options available in the industry</li>
-  <li>Creating GitHub Action workflows using YAML files</li>
-  <li>Setup of lint, test and build steps</li>
-  <li>Workflow for deploying an application to Heroku</li>
-  <li>Configuring branch protections and pull request workflows</li>
-  <li>Versioning and notifications</li>
-</ul>
-
-  </blockquote>
-</details>
-
-
-<details>
-  <summary>
-    <a href="https://github.com/MartinL-no/certificates/blob/main/img/certificate-reactnative.png?raw=true">Full Stack Open (Extension - React Native), University of Helsinki</a>
-  </summary>
-  <blockquote>
-
-This course looked at the development of mobile applications using React Native. As part of it I created an [application](https://github.com/MartinL-no/full-stack-open-part10) for rating GitHub repositories
-    
-Topics that the course covered include:
-    
-<ul>
-  <li>Setup of a development enviroment using Expo</li>
-  <li>Eslint configuration</li>
-  <li>Debugging using React Native Debugger</li>
-  <li>React Native components</li>
-  <li>Styling and theming React Native applications</li>
-  <li>Routing with React Native Router</li>
-  <li>Formik form management</li>
-  <li>Communicating with backend using GraphQL</li>
-  <li>Testing React Native applications</li>
-  <li>Pagination/ infinite scrolling</li>
-</ul>
 
   </blockquote>
 </details>
@@ -235,29 +191,90 @@ Topics that the course covered include:
 
 <details>
   <summary>
-    <a href="https://github.com/MartinL-no/certificates/blob/main/img/certificate-fullstack.png?raw=true">Full Stack Open, University of Helsinki</a>
+    <a href="https://github.com/MartinL-no/certificates/blob/main/img/certificate-reactnative.png?raw=true">Full Stack Open (Extension - React Native), University of Helsinki</a>
   </summary>
   <blockquote>
 
-Course focused on modern JavaScript-based web development and building single page applications with ReactJS that use GraphQL/ REST APIs built with Node.js.
-
-Technologies that the course covered included Node.js, Express, MongoDB, React, Redux, Jest & JSONWebtoken authentication. There is a strong focus on current professional working practice, so included guidance on additional aspects necessary to working as a professional developer such as setting up a development enviroment, testing, deployment and linting configurations.
-        
-Modules:
-
+This course looked at the development of mobile applications using React Native. As part of it I created an [application](https://github.com/MartinL-no/full-stack-open-part10) for rating GitHub repositories
+    
+Topics that the course covered include:
+    
 <ul>
-  <li>Fundamentals of Web apps</li>
-  <li>Introduction to React</li>
-  <li>Communicating with server</li>
-  <li>Programming a server with NodeJS and Express</li>
-  <li>Testing Express servers, user administration</li>
-  <li>Testing React Apps</li>
-  <li>State management with Redux</li>
-  <li>React router, custom hooks, styling app with CSS and webpack</li>
-<ul>
+  <li>Setup of a development enviroment using Expo</li>
+  <li>Eslint configuration</li>
+  <li>Debugging using React Native Debugger</li>
+  <li>React Native components</li>
+  <li>Styling and theming React Native applications</li>
+  <li>Routing with React Native Router</li>
+  <li>Formik form management</li>
+  <li>Communicating with backend using GraphQL</li>
+  <li>Testing React Native applications</li>
+  <li>Pagination/ infinite scrolling</li>
+</ul>
 
   </blockquote>
 </details>
+
+<details>
+  <summary>
+    <a href="https://github.com/MartinL-no/certificates/blob/main/img/certificate-cicd.png?raw=true">Full Stack Open (Extension - CI/CD), University of Helsinki</a>
+  </summary>
+  <blockquote>
+
+Course on Continuous Integration / Continuous Delivery systems. As part of the course I creating a pipeline for testing and deployment of a Full-Stack JavaScript [application](https://github.com/MartinL-no/full-stack-open-part11-20) using GitHub Actions.
+
+Topics that the course covered include:
+    
+<ul>
+  <li>Introduction to CI/CD options available in the industry</li>
+  <li>Creating GitHub Action workflows using YAML files</li>
+  <li>Setup of lint, test and build steps</li>
+  <li>Workflow for deploying an application to Heroku</li>
+  <li>Configuring branch protections and pull request workflows</li>
+  <li>Versioning and notifications</li>
+</ul>
+
+  </blockquote>
+</details>
+
+<details>
+  <summary>
+    <a href="https://github.com/MartinL-no/certificates/blob/main/img/certificate-psql.png?raw=true">Full Stack Open (Extension - Relational Databases), University of Helsinki</a>
+  </summary>
+  <blockquote>
+
+Course on the use of relational databases (PostGresQL) in JavaScript applications.
+    
+Topics that the course covered include:
+
+<ul>
+  <li>Setup of PostGresQL database in Fly.io</li>
+  <li>Setup and configuration of the database/models in Node.js using Sequelize</li>
+  <li>Join tables/ queries</li>
+  <li>Migrations</li>
+  <li>Many to many table relationships</li>
+</ul>
+
+  </blockquote>
+</details>
+
+<details>
+  <summary>
+    <span>Introduction to Programming with Python, University of Helsinki</span>
+  </summary>
+  <blockquote>
+
+Undergraduate level course (5 ECTS) in programming using Python
+
+<ul>
+  <li>Python syntax and language feature</li>
+  <li>Data structures</li>
+  <li>Working with standard and third party modules/ libraries</li>
+</ul>
+
+  </blockquote>
+</details>
+
 
 <details>
   <summary>
