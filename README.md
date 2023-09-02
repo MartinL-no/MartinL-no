@@ -311,6 +311,17 @@ Modules:
 
 <details>
   <summary>
+    <a href="https://ui.dev/react-query">React Query, ui.dev</a>
+  </summary>
+  <blockquote>
+
+Official course for React Query
+    
+  </blockquote>
+</details>
+
+<details>
+  <summary>
     <a href="https://frontendmasters.com/courses/servers-node-js/">The Hard Parts of Servers & Node.js, Frontend Masters</a>
   </summary>
   <blockquote>
