@@ -311,6 +311,17 @@ Modules:
 
 <details>
   <summary>
+   <a href="https://github.com/MartinL-no/certificates/blob/main/img/ReactWithTypescript.png">React with TypeScript, Total TypeScript</a>
+  </summary>
+  <blockquote>
+
+Best practices for using TypeScript with React
+    
+  </blockquote>
+</details>
+
+<details>
+  <summary>
     <a href="https://ui.dev/react-query">React Query, ui.dev</a>
   </summary>
   <blockquote>
